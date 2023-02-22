@@ -16,4 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
+
 ![audio_Player](https://user-images.githubusercontent.com/123535768/220601351-040efaa3-e989-4f66-bea1-0166c2a28576.gif)
+
+<img src = "https://user-images.githubusercontent.com/123535768/220601351-040efaa3-e989-4f66-bea1-0166c2a28576.gif" width = "200px">
